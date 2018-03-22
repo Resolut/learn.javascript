@@ -7,3 +7,5 @@
   + ##### [Задание 2-1. Вывести alert внешним скриптом](https://github.com/Resolut/learn.javascript/tree/master/ex2)
 #### 5. "Переменные"
   + ##### [Задание 5-1. Работа с переменными](https://github.com/Resolut/learn.javascript/tree/master/ex3)
+#### 6. "Правильный выбор имени переменной"
+  + ##### [Задание 6-1. Объявление переменными](https://github.com/Resolut/learn.javascript/tree/master/ex3)
