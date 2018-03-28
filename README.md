@@ -20,3 +20,5 @@
 #### Раздел 15. "Циклы while, for"
 ##### [Задание 15-4. "Выведите чётные числа"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-4)
 ##### [Задание 15-5. "Замените for на while"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-5)
+##### [Задание 15-6. "Повторять цикл, пока ввод неверен"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-6)
+##### [Задание 15-7. "Вывести простые числа"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-7)
