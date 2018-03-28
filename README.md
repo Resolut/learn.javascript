@@ -13,3 +13,7 @@
   + ##### [Задание 10-2. Проверка, целое ли число](https://github.com/Resolut/learn.javascript/tree/master/ex10-2)
 #### 11. "Взаимодействие с пользователем: alert, prompt, confirm"
   + ##### [Задание 11-1. Простая страница](https://github.com/Resolut/learn.javascript/tree/master/ex11-1)
+#### 11. "Условные операторы: if, '?'"
+  + ##### [Задание 12-2. Проверка стандарта](https://github.com/Resolut/learn.javascript/tree/master/ex12-2)
+  + ##### [Задание 12-3. Получить знак числа](https://github.com/Resolut/learn.javascript/tree/master/ex12-3)
+  + ##### [Задание 12-4. Проверка логина](https://github.com/Resolut/learn.javascript/tree/master/ex12-4)
