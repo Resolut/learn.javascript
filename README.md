@@ -22,3 +22,6 @@
 ##### [Задание 15-5. "Замените for на while"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-5)
 ##### [Задание 15-6. "Повторять цикл, пока ввод неверен"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-6)
 ##### [Задание 15-7. "Вывести простые числа"](https://github.com/Resolut/learn.javascript/tree/master/ex15/ex15-7)
+#### Раздел 16. "Конструкция switch"
+##### [Задание 16-1. "Напишите "if", аналогичный "switch""](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex16-1)
+##### [Задание 16-2. "Переписать if'ы в switch"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex16-2)
