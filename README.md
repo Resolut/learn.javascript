@@ -18,4 +18,5 @@
  ##### [Задание 12-3. Получить знак числа](https://github.com/Resolut/learn.javascript/tree/master/ex12/ex12-3)
  ##### [Задание 12-4. Проверка логина](https://github.com/Resolut/learn.javascript/tree/mastere/x12/ex12-4)
 #### Раздел 15. "Циклы while, for"
- ##### [Задание 12-5. "Выведите чётные числа"](https://github.com/Resolut/learn.javascript/tree/master/ex15-4)
+##### [Задание 15-4. "Выведите чётные числа"](https://github.com/Resolut/learn.javascript/tree/master/ex15-4)
+##### [Задание 15-4. "Замените for на while"](https://github.com/Resolut/learn.javascript/tree/master/ex15-5)
