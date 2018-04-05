@@ -1,26 +1,21 @@
-var a = +prompt('a?', '');
-
-// были if-ы
-// if (a == 0) {
-//     alert( 0 );
-// }
-// if (a == 1) {
-//     alert( 1 );
-// }
-//
-// if (a == 2 || a == 3) {
-//     alert( '2,3' );
+// вариант с помощью цикла
+// function sumTo(num) {
+//     var sum = 0;
+//     for (var i = 1; i <= num; i++) {
+//         sum += i;
+//     }
+//     return sum;
 // }
 
-switch(a) {
-    case 0:
-        alert(0);
-        break;
-    case 1:
-        alert(1);
-        break;
-    case 2:
-    case 3:
-        alert("2,3");
-        break;
+// вариант с помощью  рекусрсии
+// function sumTo(num) {
+//     if (num === 1) return 1;
+//     return num + (sumTo(num - 1));
+// }
+
+// с помощью формулы для суммы чисел арифметической прогрессии
+function sumTo(num) {
+    return num * (num + 1) / 2;
 }
+
+console.log(sumTo(10));
