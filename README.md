@@ -25,3 +25,11 @@
 #### Раздел 16. "Конструкция switch"
 ##### [Задание 16-1. "Напишите "if", аналогичный "switch""](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex16-1)
 ##### [Задание 16-2. "Переписать if'ы в switch"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex16-2)
+#### Раздел 17. "Функции"
+##### [Задание 17-2. "Перепишите функцию, используя оператор '?' или '||'"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex17-2)
+##### [Задание 17-3. "Функция min"](https://github.com/Resolut/learn.javascript/tree/master/ex17/ex17-3)
+##### [Задание 17-4. "Функция pow(x,n)"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex17-4)
+#### Раздел 19. "Рекурсия, стек"
+##### [Задание 19-1. "Вычислить сумму чисел до данного"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex19-1)
+##### [Задание 19-2. "Вычислить факториал"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex19-2)
+##### [Задание 19-3. "Числа Фибоначчи"](https://github.com/Resolut/learn.javascript/tree/master/ex16/ex19-3)
