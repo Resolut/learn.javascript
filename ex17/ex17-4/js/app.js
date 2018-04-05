@@ -1,15 +1,12 @@
-function checkAge(age) {
-    if (age > 18) {
-        return true;
-    } else {
-        return confirm('Родители разрешили?');
+var num = +prompt("Введите число больше 0");
+var power = +prompt("Введите степень числа");
+
+function pow(x, n) {
+    var result = x;
+    while (n-- > 0) {
+        result *= x;
     }
+    return result;
 }
 
-function checkAgeAnother (age) {
-    return age > 18 ? true : confirm("Родители разрешили?");
-}
-
-function checkAgeOther (age) {
-    return (age > 18 ) || confirm("Родители разрешили?");
-}
+console.log(pow(num, power));
