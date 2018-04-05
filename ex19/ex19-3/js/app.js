@@ -1,26 +1,21 @@
-var a = +prompt('a?', '');
-
-// были if-ы
-// if (a == 0) {
-//     alert( 0 );
-// }
-// if (a == 1) {
-//     alert( 1 );
-// }
-//
-// if (a == 2 || a == 3) {
-//     alert( '2,3' );
+// // медленный вариант с рекурсией
+// function fib(n) {
+//     if (n < 3) return 1;
+//     return fib(n - 1) + fib(n - 2);
 // }
 
-switch(a) {
-    case 0:
-        alert(0);
-        break;
-    case 1:
-        alert(1);
-        break;
-    case 2:
-    case 3:
-        alert("2,3");
-        break;
+// быстрый вариант с циклом
+function fib(n) {
+    var a = 1, b = 1;
+    for (var i = 3; i <= n; i++) {
+        var c = a + b;
+        a = b;
+        b = c;
+    }
+    return b;
 }
+
+console.log(fib(3));
+console.log(fib(7));
+console.log(fib(10));
+console.log(fib(77));
