@@ -1,26 +1,6 @@
-var a = +prompt('a?', '');
-
-// были if-ы
-// if (a == 0) {
-//     alert( 0 );
-// }
-// if (a == 1) {
-//     alert( 1 );
-// }
-//
-// if (a == 2 || a == 3) {
-//     alert( '2,3' );
-// }
-
-switch(a) {
-    case 0:
-        alert(0);
-        break;
-    case 1:
-        alert(1);
-        break;
-    case 2:
-    case 3:
-        alert("2,3");
-        break;
+function factorial(n) {
+    if (n === 0) return 1;
+    return n * factorial(n-1);
 }
+
+console.log(factorial(3));
