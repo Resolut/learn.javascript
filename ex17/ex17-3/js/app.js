@@ -1,15 +1,8 @@
-function checkAge(age) {
-    if (age > 18) {
-        return true;
-    } else {
-        return confirm('Родители разрешили?');
-    }
+function min (a, b) {
+    return (a <= b) ? a: b;
 }
 
-function checkAgeAnother (age) {
-    return age > 18 ? true : confirm("Родители разрешили?");
-}
+console.log(min(25, 45));
+console.log(min(-15, 15));
+console.log(min(5, 5));
 
-function checkAgeOther (age) {
-    return (age > 18 ) || confirm("Родители разрешили?");
-}
