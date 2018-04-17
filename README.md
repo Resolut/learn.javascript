@@ -37,4 +37,14 @@
 #### Раздел 4. "Автоматические тесты при помощи chai и mocha"
 ##### [Задание 4-1. "Сделать pow по спецификации"](https://github.com/Resolut/learn.javascript/tree/master/chapter-3/section-4/ex4-1)
 ##### [Задание 4-2. "Добавьте тест к задаче"](https://github.com/Resolut/learn.javascript/tree/master/chapter-3/section-4/ex4-2)
+### Глава 4. "Структуры данных"
+#### Раздел 2. "Числа"
+##### [Задание 2-1. "Интерфейс суммы"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-1)
+##### [Задание 2-5. "Как получить дробную часть числа?"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-5)
+##### [Задание 2-6. "Формула Бине"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-6)
+##### [Задание 2-7. "Случайное из интервала (0, max)"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-7)
+##### [Задание 2-8. "Случайное из интервала (min, max)"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-8)
+##### [Задание 2-9. "Случайное целое от min до max"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-9)
+#### Раздел 3. "Строки"
+#### Раздел 4. "Объекты как ассоциативные массивы"
 
