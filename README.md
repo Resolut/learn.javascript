@@ -33,3 +33,8 @@
 ##### [Задание 19-1. "Вычислить сумму чисел до данного"](https://github.com/Resolut/learn.javascript/tree/master/ex19/ex19-1)
 ##### [Задание 19-2. "Вычислить факториал"](https://github.com/Resolut/learn.javascript/tree/master/ex19/ex19-2)
 ##### [Задание 19-3. "Числа Фибоначчи"](https://github.com/Resolut/learn.javascript/tree/master/ex19/ex19-3)
+### Глава 3. "Качество кода"
+#### Раздел 4. "Автоматические тесты при помощи chai и mocha"
+##### [Задание 4-1. "Сделать pow по спецификации"](https://github.com/Resolut/learn.javascript/tree/master/chapter-3/section-4/ex4-1)
+##### [Задание 4-2. "Добавьте тест к задаче"](https://github.com/Resolut/learn.javascript/tree/master/chapter-3/section-4/ex4-2)
+
