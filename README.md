@@ -51,4 +51,18 @@
 ##### [Задание 3-3. "Усечение строки"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-3/ex3-3)
 ##### [Задание 3-4. "Выделить число"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-3/ex3-4)
 #### Раздел 4. "Объекты как ассоциативные массивы"
+##### [Задание 4-1. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex4-1)
+#### Раздел 5. "Объекты: перебор свойств"
+##### [Задание 5-1. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-1)
+##### [Задание 5-2. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-2)
+##### [Задание 5-3. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-3)
+##### [Задание 5-4. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-4)
+##### [Задание 5-5. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-5)
+##### [Задание 5-6. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-6)
+##### [Задание 5-7. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-7)
+##### [Задание 5-8. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-8)
+##### [Задание 5-9. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-9)
+##### [Задание 5-10. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-10)
+##### [Задание 5-11. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-11)
+##### [Задание 5-12. "Первый объект"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-4/ex5-12)
 
