@@ -46,5 +46,8 @@
 ##### [Задание 2-8. "Случайное из интервала (min, max)"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-8)
 ##### [Задание 2-9. "Случайное целое от min до max"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-2/ex2-9)
 #### Раздел 3. "Строки"
+##### [Задание 3-1. "Сделать первый символ заглавным"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-3/ex3-1)
+##### [Задание 3-2. "Проверьте спам"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-3/ex3-2)
+##### [Задание 3-3. "Усечение строки"](https://github.com/Resolut/learn.javascript/tree/master/chapter-4/section-3/ex3-3)
 #### Раздел 4. "Объекты как ассоциативные массивы"
 
